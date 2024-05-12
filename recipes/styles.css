@@ -1,0 +1,30 @@
+h1 {
+    color: green;
+}
+
+h3 {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    display: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subsection {
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.summary {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.ingredients {
+    font-size: 30px;
+}
+
+.steps {
+    font-weight: bold;
+}
